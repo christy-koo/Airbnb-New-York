@@ -1,2 +1,2 @@
 # Airbnb-New-York
-A simple analysis of Airbnb trends in New York 
+A simple data exploration project on Airbnb New York
